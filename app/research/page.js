@@ -1,4 +1,4 @@
-import seed from '../../../public/seed.json'
+import seed from '../../public/seed.json'
 
 export default function Research() {
   return (
