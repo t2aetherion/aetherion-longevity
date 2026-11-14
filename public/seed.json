@@ -1,0 +1,44 @@
+[
+  {
+    "tier": "proven",
+    "pillar": "peptides",
+    "title": "BPC-157 tissue repair signals",
+    "summary": "Multiple animal studies show accelerated tendon and gut healing. Human data remains limited.",
+    "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/"
+  },
+  {
+    "tier": "promising",
+    "pillar": "food",
+    "title": "Time-restricted eating and metabolic markers",
+    "summary": "Consistent human trials show improved insulin sensitivity and reduced inflammation markers.",
+    "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/"
+  },
+  {
+    "tier": "proven",
+    "pillar": "exercise",
+    "title": "Resistance training preserves muscle mass with age",
+    "summary": "Strong human evidence for maintaining strength and metabolic health past 60.",
+    "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/"
+  },
+  {
+    "tier": "hypothetical",
+    "pillar": "technology",
+    "title": "Continuous glucose monitoring for non-diabetics",
+    "summary": "Early data suggests tighter metabolic control; long-term longevity impact unproven.",
+    "sourceURL": "https://www.biorxiv.org/"
+  },
+  {
+    "tier": "frontier",
+    "pillar": "peptides",
+    "title": "Epitalon and telomere dynamics",
+    "summary": "Russian cohort data and cell studies. Independent Western replication still pending.",
+    "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/"
+  },
+  {
+    "tier": "promising",
+    "pillar": "food",
+    "title": "Omega-3 index and cardiovascular risk",
+    "summary": "Higher blood levels linked to lower event rates in multiple observational and interventional studies.",
+    "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/"
+  }
+]
